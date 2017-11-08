@@ -29,7 +29,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 1 Multiples of 3 and 5
+     * Euler Problem: 1 : Multiples of 3 and 5
      * 
      * @param number
      */
@@ -45,7 +45,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 4 Largest palindrome product
+     * Euler Problem: 4 : Largest palindrome product
      * 
      * @param num1
      * @param num2
@@ -76,7 +76,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 5 Smallest multiple
+     * Euler Problem: 5 : Smallest multiple
      */
     private static void findSmallestMultiple() {
 	int num = 2520;
@@ -92,7 +92,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 6 Sum square difference
+     * Euler Problem: 6 : Sum square difference
      * 
      * @param num
      */
@@ -115,7 +115,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 14 Longest Collatz sequence
+     * Euler Problem: 14 : Longest Collatz sequence
      * 
      * @param num
      */
@@ -136,7 +136,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 21 Amicable numbers
+     * Euler Problem: 21 : Amicable numbers
      * 
      * @param num
      */
@@ -178,7 +178,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 29 Distinct powers
+     * Euler Problem: 29 : Distinct powers
      * 
      * @param a
      * @param b
@@ -200,7 +200,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 48 Self powers
+     * Euler Problem: 48 : Self powers
      * 
      * @param num
      */
@@ -219,7 +219,7 @@ public class EulerSolutions {
     }
 
     /**
-     * Euler Problem: 56 Powerful digit sum
+     * Euler Problem: 56 : Powerful digit sum
      * 
      * @param num
      */
